@@ -37,5 +37,5 @@ Data cleaning identified two missing values within the dataset:
 
 Exploratory Data Analysis
 1. First, occurence was looked at to see if any severity, type, or location of defect occurred significantly more frequently than others.
-
+![Alt Text](images/occurences.png)
 
