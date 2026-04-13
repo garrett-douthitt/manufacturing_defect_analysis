@@ -19,7 +19,7 @@ SELECT
   ROUND(SUM(repair_cost), 2) AS total_repair_cost
  
 FROM 
-  `sodium-task-488014-j1.defects.defects_edited` 
+  `sodium-task-488014-j1.defects.defects_data` 
 
 GROUP BY
 product_id, defect_type, defect_location, severity
