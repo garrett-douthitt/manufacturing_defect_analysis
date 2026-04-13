@@ -51,6 +51,7 @@ Data cleaning identified two missing values within the dataset:
 ## Dashboard
 
 Finally a Tableau dashboard was created to display these findings.
+https://public.tableau.com/app/profile/garrett.douthitt/viz/ManufacturingDefectCostAnalysis/Dashboard1#1
 
 ![Alt Text](images/defect_analysis_tableau_dashboard_image.png)
 
